@@ -1,11 +1,19 @@
 .navbar {
-    margin-bottom: 100px;
+    margin-bottom: 5rem;
 }
 
 .carousel {
-    margin-bottom: 100px;
+    margin-bottom: 5rem;
 }
 
 .categories {
-    margin-bottom: 100px;
+    margin-bottom: 5rem;
+}
+
+.shoes {
+    margin-bottom: 5rem;
+}
+
+.backpack {
+    margin-bottom: 5rem;
 }
