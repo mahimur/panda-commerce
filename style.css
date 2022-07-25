@@ -1,9 +1,9 @@
 .navbar {
-    margin-bottom: 5rem;
+    margin: 0 10%;
 }
 
 .carousel {
-    margin-bottom: 5rem;
+    margin: 10rem 0 5rem;
 }
 
 .categories {
@@ -15,5 +15,9 @@
 }
 
 .backpack {
+    margin-bottom: 5rem;
+}
+
+.subscribe {
     margin-bottom: 5rem;
 }
